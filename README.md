@@ -17,9 +17,6 @@
 
 - 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS**
 
-<p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&locale=en" alt="reetpriye" /></p>
-<p>&nbsp;<img align="right" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=reetpriye&show_icons=true&locale=en&layout=compact" alt="reetpriye" /></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left""> 
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
