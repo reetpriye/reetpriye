@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **MERN Stack & Competitive Programming**
 
-- 💬 Ask me about **React, HTML, CSS, JS, MongoDB, NodeJS**
+- 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS**
 
 - 📫 Mail me at **reetpriye@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://reetpriye.netlify.app](https://reetpriye.netlify.app)
-
-- 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS**
 <br>
 
 ### Languages and Tools:
