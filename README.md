@@ -45,7 +45,7 @@ Hi, I'm Reet Priye, a passionate web developer 🚀 from India. Currently, I'm p
 <code><img src="https://icongr.am/devicon/c-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/cplusplus-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/python-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/sass-original.svg?size=22&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=22&color=currentColor"></code>
