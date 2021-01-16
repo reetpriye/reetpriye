@@ -1,59 +1,63 @@
-<h1 align="left">Hi 👋, I'm REET PRIYE</h1>
-<h3 align="left">A passionate web developer from India</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=reetpriye&label=Profile%20views&color=0e75b6&style=flat" alt="reetpriye" /> </p>
+### Hey 👋🏽, I'm [Reet Priye!](https://reetpriye.netlify.app/)
 
-### About Myself
+<br/>
+<a href="https://www.linkedin.com/in/reetpriye/">
+  <img align="left" alt="Reet Priye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/reetpriye">
+  <img align="left" alt="Reet Priye | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
+</a>
+<a href="https://codeforces.com/profile/reetpriye">
+  <img align="left" alt="Reet Priye | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />
+</a>
+<a href="https://www.codechef.com/users/reetpriye">
+  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+</a>
+<a href="https://twitter.com/reetpriye">
+  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://instagram.com/reetclicks">
+  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+</a>
 
-- ➡ **ECE** UnderGrad at HITK, Kolkata
 
-- 🌱 I’m currently learning **MERN Stack & Competitive Programming**
+![](https://visitor-badge.glitch.me/badge?page_id=reetpriye.reetpriye)
 
-- 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS**
+<br />
 
-- 📫 Mail me at **reetpriye@gmail.com**
+Hi, I'm Reet Priye, a passionate web developer 🚀 from India. Currently, I'm pursuing Btech in Heritage Institute of Technology, Kolkata. Beside's programming, I enjoy doing photography and playing games.
 
-- 👨‍💻 All of my projects are available at [https://reetpriye.netlify.app](https://reetpriye.netlify.app)
-<br>
+<br />
 
-### Languages and Tools:
-<p align="left""> 
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<br>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<br>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
-</p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reetpriye&show_icons=true&locale=en&layout=compact" alt="reetpriye" /></p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+### **Talking about Personal Stuffs:**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&locale=en" alt="reetpriye" /></p>
-<br>
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://www.hackerrank.com/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="reetpriye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reetpriye" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reetpriye" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="reetpriye" height="30" width="40" /></a>
-<a href="https://instagram.com/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reetpriye" height="30" width="40" /></a>
-<a href="https://twitter.com/reetpriye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="reetpriye" height="30" width="40" /></a>
-</p>
+- 👨🏽‍💻 I’m currently working on [Split Share](https://github.com/reetpriye/split-share)
+- 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔
+- 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS** I'll be happy to do my best :)
+- ⚡️ Fun-Fact: **No number before 1,000 contains the letter A**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reetpriye)
+
+### **Languages and Tools:**
+
+<code><img src="https://icongr.am/devicon/javascript-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/c-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/cplusplus-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/python-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/sass-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/react-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/d3js-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/wordpress-plain.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/webpack-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/babel-original.svg?size=22&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/git-original.svg?size=22&color=currentColor"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Reet Priye's github stats](https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
