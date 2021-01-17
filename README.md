@@ -8,16 +8,16 @@
   <img align="left" alt="Reet Priye | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
 </a>
 <a href="https://codeforces.com/profile/reetpriye">
-  <img align="left" alt="Reet Priye | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />
+  <img align="left" alt="Reet Priye | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />
 </a>
 <a href="https://www.codechef.com/users/reetpriye">
-  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+  <img align="left" alt="Reet Priye | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
 <a href="https://twitter.com/reetpriye">
   <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/reetclicks">
-  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  <img align="left" alt="Reet Clicks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 
 
