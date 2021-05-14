@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Reet Priye!](https://reetpriye.netlify.app/)
+### Hey 👋🏽, I'm [Reet Priye!](https://reetpriye.me/)
 
 <br/>
 <a href="https://www.linkedin.com/in/reetpriye/">
@@ -33,6 +33,7 @@ Hi, I'm Reet Priye, a passionate web developer 🚀 from India. Currently, I'm p
   
 ### **Talking about Personal Stuffs:**
 
+- ⚡️ Check my portfolio [here](https://reetpriye.me)
 - 👨🏽‍💻 I’m currently working on [Split Share](https://github.com/reetpriye/split-share)
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔
 - 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS** I'll be happy to do my best :)
