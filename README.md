@@ -1,64 +1,18 @@
-### Hey 👋🏽, I'm [Reet Priye!](https://reetpriye.me/)
+## Hey! I'm Reet Priye. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br/>
-<a href="https://www.linkedin.com/in/reetpriye/">
-  <img align="left" alt="Reet Priye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/reetpriye">
-  <img align="left" alt="Reet Priye | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
-</a>
-<a href="https://codeforces.com/profile/reetpriye">
-  <img align="left" alt="Reet Priye | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />
-</a>
-<a href="https://www.codechef.com/users/reetpriye">
-  <img align="left" alt="Reet Priye | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
-</a>
-<a href="https://twitter.com/reetpriye">
-  <img align="left" alt="Reet Priye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://instagram.com/reetclicks">
-  <img align="left" alt="Reet Clicks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=reetpriye.reetpriye)
-
-<br />
-
-Hi, I'm Reet Priye, a passionate web developer 🚀 from India. Currently, I'm pursuing Btech in Heritage Institute of Technology, Kolkata. Beside's programming, I enjoy doing photography and playing games.
-
-<br />
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+[![Portfolio Badge](https://img.shields.io/badge/-🚀Portfolio-black?style=flat-square/)](https://reetpriye.me)
+[![Linkedin Badge](https://img.shields.io/badge/-Reet%20Priye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetpriye/)](https://www.linkedin.com/in/reetpriye/)
+[![CodeChef Badge](https://img.shields.io/badge/-@reetpriye-critical?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/reetpriye/)](https://www.codechef.com/users/reetpriye/)
+[![HackerRank Badge](https://img.shields.io/badge/-@reetpriye-success?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/reetpriye/)](https://www.hackerrank.com/reetpriye/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/reetpriye?style=social)](https://twitter.com/reetpriye)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reetpriye&left_color=gray&right_color=blue) - Unneccessary stuff, keeps incrementing on reload -->
   
-### **Talking about Personal Stuffs:**
+Open source contributor with a keen interest in web development.<br/>
+Loves to solve problems and develop useful apps.
 
-- ⚡️ Check my portfolio [here](https://reetpriye.me)
-- 👨🏽‍💻 I’m currently working on [Split Share](https://github.com/reetpriye/split-share)
-- 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔
-- 💬 Ask me about **C++, Problem Solving, React, HTML, CSS, JS, MongoDB, NodeJS** I'll be happy to do my best :)
-- ⚡️ Fun-Fact: **No number before 1,000 contains the letter A**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reetpriye)
+<img  src="https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=reetpriye&theme=dark" width="48%">
 
-### **Languages and Tools:**
+👇🏻 If you like what I do, and want to contribute. 
 
-<code><img src="https://icongr.am/devicon/javascript-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/c-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/cplusplus-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/python-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/html5-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/css3-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/sass-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/react-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/d3js-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/wordpress-plain.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/webpack-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/babel-original.svg?size=22&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/git-original.svg?size=22&color=currentColor"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Reet Priye's github stats](https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<a href="https://www.buymeacoffee.com/reetpriye" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
