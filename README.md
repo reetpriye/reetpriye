@@ -1,4 +1,4 @@
-## Hey! I'm Reet Priye. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Reet Priye. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 [![Portfolio Badge](https://img.shields.io/badge/-🚀Portfolio-black?style=flat-square/)](https://reetpriye.me)
 [![Linkedin Badge](https://img.shields.io/badge/-Reet%20Priye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetpriye/)](https://www.linkedin.com/in/reetpriye/)
