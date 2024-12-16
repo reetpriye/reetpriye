@@ -1,18 +1,16 @@
 ## Hey! I'm Reet Priye. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-[![Portfolio Badge](https://img.shields.io/badge/-🚀Portfolio-black?style=flat-square/)](https://reetpriye.me)
-[![Linkedin Badge](https://img.shields.io/badge/-Reet%20Priye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetpriye/)](https://www.linkedin.com/in/reetpriye/)
-[![CodeChef Badge](https://img.shields.io/badge/-@reetpriye-critical?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/reetpriye/)](https://www.codechef.com/users/reetpriye/)
-[![HackerRank Badge](https://img.shields.io/badge/-@reetpriye-success?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/reetpriye/)](https://www.hackerrank.com/reetpriye/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/reetpriye?style=social)](https://twitter.com/reetpriye)
+I’m a Software Developer specializing in **React**, **Next.js**, **Node.js**, **Java**, **Spring Boot**, and **AWS**. My focus lies in building **scalable applications**, **RESTful APIs**, and **microservices**, paired with **beautiful UI frontends** that offer seamless user experiences.  
+
+With a strong foundation in **data structures and algorithms**, proven by solving **750+ DSA problems** and achieving competitive programming milestones, I thrive on crafting **efficient, robust solutions** to complex challenges.  
+
+Explore my projects [here](#) and see how I bring ideas to life through innovation and precision! 
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://reet.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reetpriye/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/reetpriye/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/reetpriye/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/reetpriye)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=reetpriye&left_color=gray&right_color=blue) - Unneccessary stuff, keeps incrementing on reload -->
-  
-Open source contributor with a keen interest in web development.<br/>
-Loves to solve problems and develop useful apps.
-
-<img  src="https://github-readme-stats.vercel.app/api?username=reetpriye&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=reetpriye&theme=dark" width="48%">
-
-👇🏻 If you like what I do, and want to contribute. 
-
-<a href="https://www.buymeacoffee.com/reetpriye" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
