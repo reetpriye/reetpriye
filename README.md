@@ -4,7 +4,7 @@ I’m a Software Developer specializing in **React**, **Next.js**, **Node.js**, 
 
 With a strong foundation in **data structures and algorithms**, proven by solving **750+ DSA problems** and achieving competitive programming milestones, I thrive on crafting **efficient, robust solutions** to complex challenges.  
 
-Explore my projects [here](#) and see how I bring ideas to life through innovation and precision! 
+Explore my projects [here](https://reet.dev/projects) and see how I bring ideas to life through innovation and precision! 
 
 ---
 
